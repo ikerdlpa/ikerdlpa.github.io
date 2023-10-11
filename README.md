@@ -15,12 +15,8 @@
 <h3 style="text-align:center; font-size:30px;">Simepre Responsables de lo que se ha cultivado</h3>
 </head>
 
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <h5>Dynamic Table</h5>
+<div class="container">
+    <h1>Dynamic Table</h1>
       <div class="input-container">
         <input type="number" id="columns" min="1" placeholder="Number of Columns">
         <input type="number" id="rows" min="1" placeholder="Number of Rows">
@@ -29,6 +25,5 @@
     <!-- Table will be dynamically generated here -->
   </table>
 </div>
-<script src="script.js"></script>
-</body>
+
 </html>
