@@ -16,12 +16,11 @@
 </head>
 
 <head>
-  <title>Dynamic HTML Table with JavaScript</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h1>Dynamic Table</h1>
+    <h5>Dynamic Table</h5>
       <div class="input-container">
         <input type="number" id="columns" min="1" placeholder="Number of Columns">
         <input type="number" id="rows" min="1" placeholder="Number of Rows">
